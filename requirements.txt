@@ -4,3 +4,4 @@ pdfplumber
 pandas
 python-docx
 python-dotenv
+sentence-transformers
