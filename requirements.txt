@@ -3,3 +3,4 @@ openai
 pdfplumber
 pandas
 python-docx
+python-dotenv
